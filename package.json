@@ -1,0 +1,32 @@
+{
+  "name": "styled-react-native",
+  "version": "1.0.0",
+  "description": "For easy styling of react native components and its style composition",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jsifalda/styled-react-native.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "styles",
+    "stylesheet",
+    "component",
+    "composition",
+    "emotion"
+  ],
+  "author": "@jsifalda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsifalda/styled-react-native/issues"
+  },
+  "homepage": "https://github.com/jsifalda/styled-react-native#readme"
+}
