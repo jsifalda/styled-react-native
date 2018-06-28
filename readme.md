@@ -3,6 +3,8 @@
 
 ## Usage
 ```js
+  import styled from 'styled-react-native'
+
   const Headline = styled(Text)(() => {
     return {
       fontSize: 20,
@@ -21,7 +23,8 @@
 or
 
 ```js
-  const Headline = styled(Text)
+  import styled from 'styled-react-native'
 
+  const Headline = styled(Text)
   <Headline {...{style: {color: 'red'}}} />
 ```
