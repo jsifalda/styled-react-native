@@ -1,6 +1,6 @@
 {
   "name": "styled-react-native",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "For easy styling of react native components and its style composition",
   "main": "lib/index.js",
   "scripts": {
