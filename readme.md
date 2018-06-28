@@ -4,6 +4,7 @@
 ## Usage
 ```js
   import styled from 'styled-react-native'
+  import { Text } from 'react-native'
 
   const Headline = styled(Text)(() => {
     return {
@@ -24,6 +25,7 @@ or
 
 ```js
   import styled from 'styled-react-native'
+  import { Text } from 'react-native'
 
   const Headline = styled(Text)
   <Headline {...{style: {color: 'red'}}} />
